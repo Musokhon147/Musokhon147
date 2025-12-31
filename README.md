@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working In The Luxodd<br>👯 I’m looking to collaborate on new Game Studios<br>🤝 I’m looking for help with new ideas<br>🌱 I’m currently learning Software Engineering<br>💬 Ask me about everyhing
+🔭 I’m currently working In  Luxodd<br>👯 I’m looking to collaborate on new Game Studios<br>🤝 I’m looking for help with new ideas<br>🌱 I’m currently learning Software Engineering<br>💬 Ask me about everyhing
 
 
 ## 🌐 Socials:
